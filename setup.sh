@@ -13,3 +13,5 @@ echo -e "\tname = $name" >> ~/.config/git/user.inc
 echo -e "\temail = $email" >> ~/.config/git/user.inc
 
 ln -sf ~/.dotfiles/paru ~/.config/paru
+
+ln -sf ~/.dotfiles/brave-flags.conf ~/.config/brave-flags.conf
