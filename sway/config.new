@@ -1,0 +1,22 @@
+# Variables
+
+set $mod Mod4
+
+set $term kitty
+set $menu bemenu-run
+
+# Outputs
+
+output * background ~/downloads/splash_fox.png fill
+
+# Inputs
+
+input type:touchpad {
+  tap enabled
+  dwt enabled
+}
+
+input type:keyboard {
+  xkb_layout us(colemak),us
+  xkb_options grp:win_space_toggle,shift:both_capslock
+}

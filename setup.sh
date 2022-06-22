@@ -17,3 +17,7 @@ ln -sf ~/.dotfiles/paru ~/.config/paru
 ln -sf ~/.dotfiles/brave-flags.conf ~/.config/brave-flags.conf
 
 ln -sf ~/.dotfiles/nvim ~/.config/nvim
+
+ln -sf ~/.dotfiles/sway ~/.config/sway
+
+ln -sf ~/.dotfiles/gebaar ~/.config/gebaar

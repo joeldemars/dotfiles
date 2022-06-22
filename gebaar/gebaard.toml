@@ -1,0 +1,7 @@
+[swipe.commands.three]
+left = "~/.config/gebaar/last_tab.sh > /dev/null"
+right = "~/.config/gebaar/next_tab.sh > /dev/null"
+
+[swipe.commands.four]
+left = "swaymsg workspace prev"
+right = "swaymsg workspace next"
